@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'malcolmisaacs.com',
-    subtitle: 'my blog',
+    subtitle: 'ml / ai blog',
     description: 'my blog on ai related topics',
     image: {
         src: '/steve.jpg',
@@ -96,11 +96,11 @@ const siteConfig: SiteConfig = {
         // }
     ],
     hero: {
-        title: 'ML/AI Blog',
-        text: 'Some notes and musings.',
+        // title: 'ML/AI Blog',
+        // text: 'Some notes and musings.',
         image: {
-            src: '/steve.jpeg',
-            alt: 'Steve Jobs'
+            src: '/nvidia.jpg',
+            alt: 'nvidia'
         },
         actions: [
             // {

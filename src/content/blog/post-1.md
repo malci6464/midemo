@@ -1,5 +1,5 @@
 ---
-title: Batch processing
+title: Batch Processing in Neural Network Models
 excerpt: Batch processing is a crucial technique in training neural network (NN) models. Instead of processing individual data samples one at a time, batch processing groups multiple samples into batches and processes them simultaneously.
 publishDate: 'Aug 18 2024'
 tags:
@@ -11,8 +11,6 @@ seo:
 ---
 
 ![A person standing at the window](/post-1.jpg)
-
-# Batch Processing in Neural Network Models
 
 Batch processing is a crucial technique in training neural network (NN) models. Instead of processing individual data samples one at a time, batch processing groups multiple samples into batches and processes them simultaneously. This approach offers several advantages, including improved computational efficiency and faster convergence.
 

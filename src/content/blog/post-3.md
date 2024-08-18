@@ -6,8 +6,6 @@ tags:
   - RAG, hallucinations
 ---
 
-# RAG -> stop hallucinations!
-
 Working with LLM’s is interesting. Using them in a RAG architecture brings some different constraints to the table. I think the biggest one is the expectation, especially in a corporate setting, for being factual. But this is not the strength of an LLM. In fact many have deemed the ‘hallucination problem’ a feature and not a bug (see this paper from 2023 - https://arxiv.org/pdf/2310.01469).
 
 There are many strategies to take, many layers of solutions that each retrieval and generation event can employ, to avoid hallucinating. A key factor is how much risk is involved - said another way - how much penalty may there be for being wrong?
