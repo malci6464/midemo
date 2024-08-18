@@ -1,6 +1,6 @@
 ---
 title: Software 2.0
-excerpt: In Software 2.0 most often the source code comprises the dataset that defines the desirable behavior...
+excerpt: In Software 2.0 most often the source code comprises the dataset that defines the desirable behavior....
 publishDate: 'Aug 18 2024'
 tags:
   - software 2.0
