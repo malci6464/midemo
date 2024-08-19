@@ -1,6 +1,6 @@
 ---
 title: Gradient checkpointing
-excerpt: How much GPU do you need? State of the art performance requires state of the art machinery. A100's are not cheap!
+excerpt: Gradient checkpointing enables you to run a more powerful model on your machine - beneficial under training.
 publishDate: 'Aug 19 2024'
 tags:
   - GPU memory, gradient checkpointing
