@@ -8,6 +8,7 @@
 ## Astro Themes by Just Good UI
 
 - [Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) is a free single author blog theme.
+- Dante Blog Theme
 
 ## License
 
