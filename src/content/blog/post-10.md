@@ -1,5 +1,5 @@
 ---
-title: Perceptron math
+title: Perceptron math - part 1
 excerpt: Going down to a base level of the perceptron to ensure foundational understanding and intuition in general ML dev.
 
 publishDate: 'Nov 13 2025'
